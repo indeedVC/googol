@@ -1,12 +1,6 @@
 name: 🖥️ Code Checks
 
-on:
-  [
-    pull_request,
-    push,
-    workflow_dispatch
-  ]
-
+on: [pull_request, workflow_dispatch]
 
 jobs:
   code-checks:
