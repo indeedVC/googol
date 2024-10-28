@@ -1,6 +1,6 @@
 name: Checks with Pylint
 on:
-  workflow_call:
+  workflow_dispatch
 
 jobs:
   pylint-checks:
