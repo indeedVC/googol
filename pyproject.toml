@@ -1,0 +1,8 @@
+[tool.poetry]
+package-mode = false
+name = "googol"
+description = "Look up a specific index in a large JSON file with ease"
+license = "MIT"
+authors = ["indeedVC"]
+readme = "README.md"
+repository = "https://github.com/indeedVC/googol"
